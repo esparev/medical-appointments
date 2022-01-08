@@ -1,5 +1,5 @@
 # Medical Appointments
-Java program where a Doctor can make an appointment and see those same appointments, and where a Pacient can see book an appointment with the scheduled appointment that the Doctors have made
+Java program where a Doctor can make an appointment and see those same appointments, and where a Patient can see book an appointment with the scheduled appointment that the Doctors have made
 
 ## Doctors registered in the program (name | ficticional@email.com)
 
@@ -9,7 +9,7 @@ Java program where a Doctor can make an appointment and see those same appointme
 - Stephen    | strange@doctor.com
 - Mr. Doctor | mr@doctor.com
 
-## Pacients registered in the program (name | ficticional@email.com)
+## Patients registered in the program (name | ficticional@email.com)
 
 - Carlos  | patient@email.com
 - Hendrix | later@future.com
